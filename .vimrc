@@ -1,7 +1,7 @@
 set nocompatible              " be iMproved, required
 filetype off                  " required
 
-set shell=/usr/bin/fish
+set shell=/bin/bash
 set rtp+=~/.vim/bundle/Vundle.vim
 
 set mouse=a
